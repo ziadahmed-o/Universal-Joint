@@ -8,7 +8,7 @@ An industrial-grade parametric 3D mechanical assembly and motion study of a Univ
 
 | 🎬 Dynamic Motion Study (GIF) | 🖥️ SolidWorks 3D Assembly |
 | :---: | :---: |
-| <img src="motion-study.gif" width="400" alt="U-Joint Motion Study"/> | <img src="universal-joint-3d.png" width="400" alt="3D Render Model"/> |
+| <img src="gif.gif" width="400" alt="U-Joint Motion Study"/> | <img src="image.png" width="400" alt="3D Render Model"/> |
 
 *The GIF above demonstrates the non-linear angular velocity transmission and mechanical efficiency of the joint under continuous rotation.*
 
